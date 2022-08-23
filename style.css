@@ -1,0 +1,24 @@
+
+
+
+.navbar-toggler{
+    color:#2C394B;
+}
+
+@media(min-width:768px){
+    .news-input{
+        width: 50%;
+    }
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body::before{
+    display:block;
+    content: '';
+    height:70px;
+    
+
+}
